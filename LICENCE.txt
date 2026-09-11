@@ -1,0 +1,97 @@
+Licence MIT
+
+Copyright (c) 2025-2026 Sampple
+
+(français)
+Par la présente, il est accordé gratuitement à toute personne obtenant une copie
+de ce logiciel et des fichiers de documentation associés (le « Logiciel »), le
+droit d’utiliser le Logiciel sans restriction, y compris, sans s’y limiter, les
+droits de :
+
+- utiliser,
+- copier,
+- modifier,
+- fusionner,
+- publier,
+- distribuer,
+- sous-licencier,
+- et/ou vendre des copies du Logiciel,
+
+et d’autoriser les personnes auxquelles le Logiciel est fourni à en faire de même,
+sous réserve des conditions suivantes :
+
+La mention de copyright ci-dessus, identifiant Sampple comme développeur
+original du Logiciel, ainsi que la présente autorisation, doivent être incluses
+dans toutes les copies ou parties substantielles du Logiciel.
+
+LE LOGICIEL EST FOURNI « EN L’ÉTAT », SANS AUCUNE GARANTIE, EXPRESSE OU IMPLICITE,
+Y COMPRIS, MAIS SANS S’Y LIMITER, LES GARANTIES DE QUALITÉ MARCHANDE,
+D’ADÉQUATION À UN USAGE PARTICULIER ET D’ABSENCE DE CONTREFAÇON.
+
+EN AUCUN CAS SAMPPLE NE POURRA ÊTRE TENU RESPONSABLE DE TOUTE RÉCLAMATION,
+DOMMAGE OU AUTRE RESPONSABILITÉ, QU’ELLE SOIT CONTRACTUELLE, DÉLICTUELLE OU AUTRE,
+DÉCOULANT DE, OU EN LIEN AVEC, LE LOGICIEL OU SON UTILISATION OU D’AUTRES
+OPÉRATIONS AVEC LE LOGICIEL.
+
+------------------------------------------------------------
+Clarification contractuelle (information complémentaire)
+------------------------------------------------------------
+
+Le présent logiciel est distribué sous licence open source MIT.
+
+Conformément aux droits accordés par cette licence, toute entité
+bénéficiaire du Logiciel, y compris une association, est libre
+d’en assurer la maintenance, la correction et l’évolution, soit
+directement, soit en confiant ces prestations à tout tiers de son
+choix, sans exclusivité ni dépendance vis-à-vis du développeur
+original.
+
+La présente clarification n’emporte aucune cession de droits de
+propriété intellectuelle. Sampple demeure l’auteur et titulaire
+des droits sur le code source original du Logiciel.
+
+(english)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to:
+
+- use,
+- copy,
+- modify,
+- merge,
+- publish,
+- distribute,
+- sublicense,
+- and/or sell copies of the Software,
+
+and to permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice, identifying Sampple as the original developer of
+the Software, and this permission notice shall be included in all copies or
+substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL SAMPPLE BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+------------------------------------------------------------
+Contractual clarification (informational notice)
+------------------------------------------------------------
+
+This software is distributed under the MIT open source license.
+
+In accordance with the rights granted by this license, any entity
+receiving the Software, including an association, is free to
+maintain, modify and evolve the Software, either directly or by
+appointing any third-party developer of its choice, without any
+exclusivity or dependency on the original developer.
+
+This clarification does not constitute a transfer of intellectual
+property rights. Sampple remains the author and copyright holder
+of the original source code of the Software.
